@@ -10,11 +10,11 @@ Please note that the input file must contain words from the given 230 words.
 
 For comipiling the complete code again, follow steps below:
 
-1. Run the 'importtweets.py'. Additional Tweepy library is needed to run this code. Also, access tokens for twitter might have expired, so please generate and update the same in the code. This code will download all tweets one by one from twitter and might run for even a day or two. tweets_all.csv will be generated.
+1. Run the 'importtweets.py'. Additional Tweepy library is needed to run this code. Also, access tokens for twitter might have expired, so please generate and update the same in the code. This code will download all tweets one by one from twitter and might run for even a day or two. tweets_all.csv will be generated. GitHub does not allow uploading files larger than 25 MB through browser, therefore, datasheet has not been uploaded in the additional folder. Please upload the datasheet before running 'importweets.py'.
 
 2. Run the 'generatewordlist.py' file. This will generate two new files-'uniqueenglishvalidwordlist.csv' and 'uniquehindivalidwordlist.csv'.
 
-3. Next, run 'tweetlangtag.py'. This will create a new file named tweetlang.csv.
+3. Next, run 'tweetlangtag.py'. This will create a new file named 'tweetlang.csv'.
 
 4. Run the 'seperatecmeandcmh.py' file which will generate seperate files for all the categories of tweets.
 
