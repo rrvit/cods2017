@@ -1,0 +1,1 @@
+The Spearman's Co-relation rank for the 70 words is calculated to be 0.3322
